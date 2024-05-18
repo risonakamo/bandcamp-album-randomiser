@@ -1,0 +1,15 @@
+{
+  "name": "bandcamp-album-randomiser",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "vite build -w false"
+  },
+  "dependencies": {
+    "@types/chrome": "^0.0.268",
+    "rollup": "^4.17.2",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11",
+    "vite-plugin-checker": "^0.6.4",
+    "vite-tsconfig-paths": "^4.3.2"
+  }
+}

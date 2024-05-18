@@ -1,0 +1,13 @@
+{
+    "name":"Bandcamp Album Randomiser",
+    "short_name":"bcarandom",
+    "description":"randomly open bandcamp album",
+    "version":"1.0.0",
+    "homepage_url":"https://github.com/risonakamo/bandcamp-album-randomiser",
+    "manifest_version":3,
+
+    "content_scripts":[{
+        "matches":["https://*.bandcamp.com/*"],
+        "js":["build/bcarandom.iife.js"]
+    }]
+}
