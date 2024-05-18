@@ -9,6 +9,9 @@ Adds a Shuffle button to Bandcamp Albums page to randomly enter an album.
 3. In Chrome's [extension settings](chrome://extensions/), choose "Load unpacked".
 4. Select the extension folder extracted from the zip.
 
+# See Also
+[BShuffle](https://github.com/risonakamo/bshuffle) is extension for random play songs while in a single album.
+
 # Developer Notes
 How to build
 
