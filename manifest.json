@@ -5,9 +5,7 @@
     "version":"1.0.0",
     "homepage_url":"https://github.com/risonakamo/bandcamp-album-randomiser",
     "manifest_version":3,
-
-    "permissions":["tabs"],
-    "host_permissions":["https://*.bandcamp.com/"],
+    "author":"risonakamo",
 
     "content_scripts":[{
         "matches":["https://*.bandcamp.com/"],

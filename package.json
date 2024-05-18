@@ -1,6 +1,6 @@
 {
   "name": "bandcamp-album-randomiser",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "scripts": {
     "build": "vite build -w false",
     "watch":"vite build -w true"
