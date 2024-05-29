@@ -8,7 +8,10 @@
     "author":"risonakamo",
 
     "content_scripts":[{
-        "matches":["https://*.bandcamp.com/"],
+        "matches":[
+            "https://*.bandcamp.com/",
+            "https://*.bandcamp.com/music/*"
+        ],
         "js":["build/bcarandom.iife.js"]
     }]
 }
